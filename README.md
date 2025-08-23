@@ -1,9 +1,5 @@
 # Binary IPL Inspector — README
 
-A small, safe GUI tool for inspecting, editing (in text form), and *safely* rebuilding binary `.ipl` ("bnry") files used by certain game/modding workflows.
-
-> This README describes the tools, how the program works, how to use it, and simple command‑prompt installation/running instructions. It does **not** mention cloning or repositories — save or copy the script file and run it locally.
-
 ---
 
 ## What this tool does
