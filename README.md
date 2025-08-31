@@ -11,6 +11,9 @@
 * Includes a safer repack path that preserves numeric values (including the `interior` field) from the original file when possible; if the file contains unknown/extra sections the tool will skip rewriting and instead save a `.bak`.
 
 ---
+## Previews
+
+<img width="978" height="634" alt="Screenshot 2025-08-31 202512" src="https://github.com/user-attachments/assets/2d955685-e180-42f1-82e3-36cdd475bdb8" />
 
 ## Requirements
 
