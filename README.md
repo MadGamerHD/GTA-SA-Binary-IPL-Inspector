@@ -2,6 +2,12 @@
 
 ---
 
+Development Update
+
+Development on this tool has been paused for now. There’s no specific issue or problem behind this decision — it’s simply on hold while I focus on other things at the moment.
+
+Work on it will continue again in the future, but for now it’s temporarily stopped.
+
 ## What this tool does
 
 * Opens **binary IPL** files that begin with the `bnry` magic header.
